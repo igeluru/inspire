@@ -1,0 +1,17 @@
+{
+    "name": "urponica/inspire",
+    "autoload": {
+        "psr-4": {
+            "Urponica\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eugeniu Reveneala",
+            "email": "vedsico@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    }
+}
